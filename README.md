@@ -11,4 +11,5 @@ offices to keep track of the employment of each student and from each employer. 
 employment services to find out answers to various questions like which employer is giving out the most employment, 
 total amount spent in international student employment, etc. 
 
-The Technologies used in this Project - MS SQL, MS Access, ER Diagram.
+Technologies Used - MS SQL, MS Access, Visual Basic.
+Security Concepts - Parametrized Queries and User Input Sanitization to avoid SQL Injection and Visual Basic Scripts to hinder Authentication Bypass.
