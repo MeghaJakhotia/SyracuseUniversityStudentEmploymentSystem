@@ -12,4 +12,5 @@ employment services to find out answers to various questions like which employer
 total amount spent in international student employment, etc. 
 
 Technologies Used - MS SQL, MS Access, Visual Basic.
+
 Security Concepts - Parametrized Queries and User Input Sanitization to avoid SQL Injection and Visual Basic Scripts to hinder Authentication Bypass.
